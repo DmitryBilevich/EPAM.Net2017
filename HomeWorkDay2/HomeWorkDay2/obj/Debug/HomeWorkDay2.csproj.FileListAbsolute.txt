@@ -1,0 +1,5 @@
+c:\users\dmitry\documents\visual studio 2015\Projects\HomeWorkDay2\HomeWorkDay2\bin\Debug\HomeWorkDay2.dll
+c:\users\dmitry\documents\visual studio 2015\Projects\HomeWorkDay2\HomeWorkDay2\bin\Debug\HomeWorkDay2.pdb
+c:\users\dmitry\documents\visual studio 2015\Projects\HomeWorkDay2\HomeWorkDay2\obj\Debug\HomeWorkDay2.csprojResolveAssemblyReference.cache
+c:\users\dmitry\documents\visual studio 2015\Projects\HomeWorkDay2\HomeWorkDay2\obj\Debug\HomeWorkDay2.dll
+c:\users\dmitry\documents\visual studio 2015\Projects\HomeWorkDay2\HomeWorkDay2\obj\Debug\HomeWorkDay2.pdb

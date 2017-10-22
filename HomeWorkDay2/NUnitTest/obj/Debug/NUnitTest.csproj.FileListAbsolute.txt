@@ -1,0 +1,9 @@
+c:\users\dmitry\documents\visual studio 2015\Projects\HomeWorkDay2\NUnitTest\bin\Debug\NUnitTest.dll
+c:\users\dmitry\documents\visual studio 2015\Projects\HomeWorkDay2\NUnitTest\bin\Debug\NUnitTest.pdb
+c:\users\dmitry\documents\visual studio 2015\Projects\HomeWorkDay2\NUnitTest\bin\Debug\HomeWorkDay2.dll
+c:\users\dmitry\documents\visual studio 2015\Projects\HomeWorkDay2\NUnitTest\bin\Debug\nunit.framework.dll
+c:\users\dmitry\documents\visual studio 2015\Projects\HomeWorkDay2\NUnitTest\bin\Debug\HomeWorkDay2.pdb
+c:\users\dmitry\documents\visual studio 2015\Projects\HomeWorkDay2\NUnitTest\bin\Debug\nunit.framework.xml
+c:\users\dmitry\documents\visual studio 2015\Projects\HomeWorkDay2\NUnitTest\obj\Debug\NUnitTest.csprojResolveAssemblyReference.cache
+c:\users\dmitry\documents\visual studio 2015\Projects\HomeWorkDay2\NUnitTest\obj\Debug\NUnitTest.dll
+c:\users\dmitry\documents\visual studio 2015\Projects\HomeWorkDay2\NUnitTest\obj\Debug\NUnitTest.pdb

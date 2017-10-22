@@ -1,0 +1,8 @@
+c:\users\dmitry\documents\visual studio 2015\Projects\HomeWorkDay2\HomeWorkConsole\bin\Debug\HomeWorkConsole.exe.config
+c:\users\dmitry\documents\visual studio 2015\Projects\HomeWorkDay2\HomeWorkConsole\bin\Debug\HomeWorkConsole.exe
+c:\users\dmitry\documents\visual studio 2015\Projects\HomeWorkDay2\HomeWorkConsole\bin\Debug\HomeWorkConsole.pdb
+c:\users\dmitry\documents\visual studio 2015\Projects\HomeWorkDay2\HomeWorkConsole\bin\Debug\HomeWorkDay2.dll
+c:\users\dmitry\documents\visual studio 2015\Projects\HomeWorkDay2\HomeWorkConsole\bin\Debug\HomeWorkDay2.pdb
+c:\users\dmitry\documents\visual studio 2015\Projects\HomeWorkDay2\HomeWorkConsole\obj\Debug\HomeWorkConsole.csprojResolveAssemblyReference.cache
+c:\users\dmitry\documents\visual studio 2015\Projects\HomeWorkDay2\HomeWorkConsole\obj\Debug\HomeWorkConsole.exe
+c:\users\dmitry\documents\visual studio 2015\Projects\HomeWorkDay2\HomeWorkConsole\obj\Debug\HomeWorkConsole.pdb
