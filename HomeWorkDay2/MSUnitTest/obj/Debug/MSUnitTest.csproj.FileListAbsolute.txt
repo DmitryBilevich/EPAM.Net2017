@@ -1,9 +1,0 @@
-c:\users\dmitry\documents\visual studio 2015\Projects\HomeWorkDay2\MSUnitTest\obj\Debug\MSUnitTest.csprojResolveAssemblyReference.cache
-c:\users\dmitry\documents\visual studio 2015\Projects\HomeWorkDay2\MSUnitTest\bin\Debug\MSUnitTest.dll
-c:\users\dmitry\documents\visual studio 2015\Projects\HomeWorkDay2\MSUnitTest\bin\Debug\MSUnitTest.pdb
-c:\users\dmitry\documents\visual studio 2015\Projects\HomeWorkDay2\MSUnitTest\bin\Debug\HomeWorkDay2.dll
-c:\users\dmitry\documents\visual studio 2015\Projects\HomeWorkDay2\MSUnitTest\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
-c:\users\dmitry\documents\visual studio 2015\Projects\HomeWorkDay2\MSUnitTest\bin\Debug\HomeWorkDay2.pdb
-c:\users\dmitry\documents\visual studio 2015\Projects\HomeWorkDay2\MSUnitTest\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml
-c:\users\dmitry\documents\visual studio 2015\Projects\HomeWorkDay2\MSUnitTest\obj\Debug\MSUnitTest.dll
-c:\users\dmitry\documents\visual studio 2015\Projects\HomeWorkDay2\MSUnitTest\obj\Debug\MSUnitTest.pdb
