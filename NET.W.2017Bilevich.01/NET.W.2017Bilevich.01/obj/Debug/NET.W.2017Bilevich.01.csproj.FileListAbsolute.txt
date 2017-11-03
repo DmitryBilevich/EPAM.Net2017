@@ -1,0 +1,7 @@
+C:\Users\Dmitry\source\repos\NET.W.2017Bilevich.01\NET.W.2017Bilevich.01\obj\Debug\NET.W.2017Bilevich.01.csprojResolveAssemblyReference.cache
+C:\Users\Dmitry\source\repos\NET.W.2017Bilevich.01\NET.W.2017Bilevich.01\obj\Debug\NET.W.2017Bilevich.01.csproj.CoreCompileInputs.cache
+C:\Users\Dmitry\source\repos\NET.W.2017Bilevich.01\NET.W.2017Bilevich.01\bin\Debug\NET.W.2017Bilevich.01.exe.config
+C:\Users\Dmitry\source\repos\NET.W.2017Bilevich.01\NET.W.2017Bilevich.01\bin\Debug\NET.W.2017Bilevich.01.exe
+C:\Users\Dmitry\source\repos\NET.W.2017Bilevich.01\NET.W.2017Bilevich.01\bin\Debug\NET.W.2017Bilevich.01.pdb
+C:\Users\Dmitry\source\repos\NET.W.2017Bilevich.01\NET.W.2017Bilevich.01\obj\Debug\NET.W.2017Bilevich.01.exe
+C:\Users\Dmitry\source\repos\NET.W.2017Bilevich.01\NET.W.2017Bilevich.01\obj\Debug\NET.W.2017Bilevich.01.pdb
