@@ -1,0 +1,6 @@
+D:\EPAM HOME TASK\NET.W.2017.Bilevich.02\NET.W.2017.Bilevich.02\bin\Debug\NET.W.2017.Bilevich.02.dll
+D:\EPAM HOME TASK\NET.W.2017.Bilevich.02\NET.W.2017.Bilevich.02\bin\Debug\NET.W.2017.Bilevich.02.pdb
+D:\EPAM HOME TASK\NET.W.2017.Bilevich.02\NET.W.2017.Bilevich.02\obj\Debug\FindNextBiggerNumber.csproj.CoreCompileInputs.cache
+D:\EPAM HOME TASK\NET.W.2017.Bilevich.02\NET.W.2017.Bilevich.02\obj\Debug\NET.W.2017.Bilevich.02.dll
+D:\EPAM HOME TASK\NET.W.2017.Bilevich.02\NET.W.2017.Bilevich.02\obj\Debug\NET.W.2017.Bilevich.02.pdb
+D:\EPAM HOME TASK\NET.W.2017.Bilevich.02\NET.W.2017.Bilevich.02\obj\Debug\FindNextBiggerNumber.csprojResolveAssemblyReference.cache

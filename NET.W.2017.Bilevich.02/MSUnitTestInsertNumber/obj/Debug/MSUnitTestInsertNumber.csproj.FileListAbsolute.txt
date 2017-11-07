@@ -1,0 +1,15 @@
+D:\EPAM HOME TASK\NET.W.2017.Bilevich.02\MSUnitTestInsertNumber\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+D:\EPAM HOME TASK\NET.W.2017.Bilevich.02\MSUnitTestInsertNumber\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+D:\EPAM HOME TASK\NET.W.2017.Bilevich.02\MSUnitTestInsertNumber\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+D:\EPAM HOME TASK\NET.W.2017.Bilevich.02\MSUnitTestInsertNumber\bin\Debug\MSUnitTestInsertNumber.dll
+D:\EPAM HOME TASK\NET.W.2017.Bilevich.02\MSUnitTestInsertNumber\bin\Debug\MSUnitTestInsertNumber.pdb
+D:\EPAM HOME TASK\NET.W.2017.Bilevich.02\MSUnitTestInsertNumber\bin\Debug\InsertNumber.dll
+D:\EPAM HOME TASK\NET.W.2017.Bilevich.02\MSUnitTestInsertNumber\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+D:\EPAM HOME TASK\NET.W.2017.Bilevich.02\MSUnitTestInsertNumber\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+D:\EPAM HOME TASK\NET.W.2017.Bilevich.02\MSUnitTestInsertNumber\bin\Debug\InsertNumber.pdb
+D:\EPAM HOME TASK\NET.W.2017.Bilevich.02\MSUnitTestInsertNumber\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+D:\EPAM HOME TASK\NET.W.2017.Bilevich.02\MSUnitTestInsertNumber\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+D:\EPAM HOME TASK\NET.W.2017.Bilevich.02\MSUnitTestInsertNumber\obj\Debug\MSUnitTestInsertNumber.csprojResolveAssemblyReference.cache
+D:\EPAM HOME TASK\NET.W.2017.Bilevich.02\MSUnitTestInsertNumber\obj\Debug\MSUnitTestInsertNumber.csproj.CoreCompileInputs.cache
+D:\EPAM HOME TASK\NET.W.2017.Bilevich.02\MSUnitTestInsertNumber\obj\Debug\MSUnitTestInsertNumber.dll
+D:\EPAM HOME TASK\NET.W.2017.Bilevich.02\MSUnitTestInsertNumber\obj\Debug\MSUnitTestInsertNumber.pdb

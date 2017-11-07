@@ -1,0 +1,6 @@
+D:\EPAM HOME TASK\NET.W.2017.Bilevich.02\FilterDigit\bin\Debug\FilterDigit.dll
+D:\EPAM HOME TASK\NET.W.2017.Bilevich.02\FilterDigit\bin\Debug\FilterDigit.pdb
+D:\EPAM HOME TASK\NET.W.2017.Bilevich.02\FilterDigit\obj\Debug\FilterDigit.csprojResolveAssemblyReference.cache
+D:\EPAM HOME TASK\NET.W.2017.Bilevich.02\FilterDigit\obj\Debug\FilterDigit.csproj.CoreCompileInputs.cache
+D:\EPAM HOME TASK\NET.W.2017.Bilevich.02\FilterDigit\obj\Debug\FilterDigit.dll
+D:\EPAM HOME TASK\NET.W.2017.Bilevich.02\FilterDigit\obj\Debug\FilterDigit.pdb

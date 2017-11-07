@@ -1,0 +1,15 @@
+D:\EPAM HOME TASK\NET.W.2017.Bilevich.02\MSUnitTestFindNthRoot\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+D:\EPAM HOME TASK\NET.W.2017.Bilevich.02\MSUnitTestFindNthRoot\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+D:\EPAM HOME TASK\NET.W.2017.Bilevich.02\MSUnitTestFindNthRoot\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+D:\EPAM HOME TASK\NET.W.2017.Bilevich.02\MSUnitTestFindNthRoot\bin\Debug\MSUnitTestFindNthRoot.dll
+D:\EPAM HOME TASK\NET.W.2017.Bilevich.02\MSUnitTestFindNthRoot\bin\Debug\MSUnitTestFindNthRoot.pdb
+D:\EPAM HOME TASK\NET.W.2017.Bilevich.02\MSUnitTestFindNthRoot\bin\Debug\FindNthRoot.dll
+D:\EPAM HOME TASK\NET.W.2017.Bilevich.02\MSUnitTestFindNthRoot\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+D:\EPAM HOME TASK\NET.W.2017.Bilevich.02\MSUnitTestFindNthRoot\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+D:\EPAM HOME TASK\NET.W.2017.Bilevich.02\MSUnitTestFindNthRoot\bin\Debug\FindNthRoot.pdb
+D:\EPAM HOME TASK\NET.W.2017.Bilevich.02\MSUnitTestFindNthRoot\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+D:\EPAM HOME TASK\NET.W.2017.Bilevich.02\MSUnitTestFindNthRoot\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+D:\EPAM HOME TASK\NET.W.2017.Bilevich.02\MSUnitTestFindNthRoot\obj\Debug\MSUnitTestFindNthRoot.csprojResolveAssemblyReference.cache
+D:\EPAM HOME TASK\NET.W.2017.Bilevich.02\MSUnitTestFindNthRoot\obj\Debug\MSUnitTestFindNthRoot.csproj.CoreCompileInputs.cache
+D:\EPAM HOME TASK\NET.W.2017.Bilevich.02\MSUnitTestFindNthRoot\obj\Debug\MSUnitTestFindNthRoot.dll
+D:\EPAM HOME TASK\NET.W.2017.Bilevich.02\MSUnitTestFindNthRoot\obj\Debug\MSUnitTestFindNthRoot.pdb

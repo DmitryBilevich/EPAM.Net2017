@@ -1,0 +1,6 @@
+D:\EPAM HOME TASK\NET.W.2017.Bilevich.02\InsertNumber\bin\Debug\InsertNumber.dll
+D:\EPAM HOME TASK\NET.W.2017.Bilevich.02\InsertNumber\bin\Debug\InsertNumber.pdb
+D:\EPAM HOME TASK\NET.W.2017.Bilevich.02\InsertNumber\obj\Debug\InsertNumber.csproj.CoreCompileInputs.cache
+D:\EPAM HOME TASK\NET.W.2017.Bilevich.02\InsertNumber\obj\Debug\InsertNumber.dll
+D:\EPAM HOME TASK\NET.W.2017.Bilevich.02\InsertNumber\obj\Debug\InsertNumber.pdb
+D:\EPAM HOME TASK\NET.W.2017.Bilevich.02\InsertNumber\obj\Debug\InsertNumber.csprojResolveAssemblyReference.cache

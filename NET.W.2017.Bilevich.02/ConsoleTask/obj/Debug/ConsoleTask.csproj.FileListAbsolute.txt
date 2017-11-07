@@ -1,0 +1,13 @@
+D:\EPAM HOME TASK\NET.W.2017.Bilevich.02\ConsoleTask\bin\Debug\ConsoleTask.exe.config
+D:\EPAM HOME TASK\NET.W.2017.Bilevich.02\ConsoleTask\bin\Debug\ConsoleTask.exe
+D:\EPAM HOME TASK\NET.W.2017.Bilevich.02\ConsoleTask\bin\Debug\ConsoleTask.pdb
+D:\EPAM HOME TASK\NET.W.2017.Bilevich.02\ConsoleTask\bin\Debug\InsertNumber.dll
+D:\EPAM HOME TASK\NET.W.2017.Bilevich.02\ConsoleTask\bin\Debug\InsertNumber.pdb
+D:\EPAM HOME TASK\NET.W.2017.Bilevich.02\ConsoleTask\obj\Debug\ConsoleTask.csprojResolveAssemblyReference.cache
+D:\EPAM HOME TASK\NET.W.2017.Bilevich.02\ConsoleTask\obj\Debug\ConsoleTask.csproj.CoreCompileInputs.cache
+D:\EPAM HOME TASK\NET.W.2017.Bilevich.02\ConsoleTask\obj\Debug\ConsoleTask.exe
+D:\EPAM HOME TASK\NET.W.2017.Bilevich.02\ConsoleTask\obj\Debug\ConsoleTask.pdb
+D:\EPAM HOME TASK\NET.W.2017.Bilevich.02\ConsoleTask\bin\Debug\NET.W.2017.Bilevich.02.dll
+D:\EPAM HOME TASK\NET.W.2017.Bilevich.02\ConsoleTask\bin\Debug\NET.W.2017.Bilevich.02.pdb
+D:\EPAM HOME TASK\NET.W.2017.Bilevich.02\ConsoleTask\bin\Debug\FilterDigit.dll
+D:\EPAM HOME TASK\NET.W.2017.Bilevich.02\ConsoleTask\bin\Debug\FilterDigit.pdb

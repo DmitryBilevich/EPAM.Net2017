@@ -1,0 +1,6 @@
+D:\EPAM HOME TASK\NET.W.2017.Bilevich.02\FindNthRoot\bin\Debug\FindNthRoot.dll
+D:\EPAM HOME TASK\NET.W.2017.Bilevich.02\FindNthRoot\bin\Debug\FindNthRoot.pdb
+D:\EPAM HOME TASK\NET.W.2017.Bilevich.02\FindNthRoot\obj\Debug\FindNthRoot.csprojResolveAssemblyReference.cache
+D:\EPAM HOME TASK\NET.W.2017.Bilevich.02\FindNthRoot\obj\Debug\FindNthRoot.csproj.CoreCompileInputs.cache
+D:\EPAM HOME TASK\NET.W.2017.Bilevich.02\FindNthRoot\obj\Debug\FindNthRoot.dll
+D:\EPAM HOME TASK\NET.W.2017.Bilevich.02\FindNthRoot\obj\Debug\FindNthRoot.pdb
