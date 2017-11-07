@@ -1,0 +1,12 @@
+C:\Users\Dmitry\source\repos\NET.W.2017.Bilevich.03.04\NET.W.2017.Bilevich.03.04\bin\Debug\NET.W.2017.Bilevich.03.04.dll
+C:\Users\Dmitry\source\repos\NET.W.2017.Bilevich.03.04\NET.W.2017.Bilevich.03.04\bin\Debug\NET.W.2017.Bilevich.03.04.pdb
+C:\Users\Dmitry\source\repos\NET.W.2017.Bilevich.03.04\NET.W.2017.Bilevich.03.04\obj\Debug\GreatestCommonDivisor.csprojResolveAssemblyReference.cache
+C:\Users\Dmitry\source\repos\NET.W.2017.Bilevich.03.04\NET.W.2017.Bilevich.03.04\obj\Debug\GreatestCommonDivisor.csproj.CoreCompileInputs.cache
+C:\Users\Dmitry\source\repos\NET.W.2017.Bilevich.03.04\NET.W.2017.Bilevich.03.04\obj\Debug\NET.W.2017.Bilevich.03.04.dll
+C:\Users\Dmitry\source\repos\NET.W.2017.Bilevich.03.04\NET.W.2017.Bilevich.03.04\obj\Debug\NET.W.2017.Bilevich.03.04.pdb
+D:\SourceTreeClone\NET.W.2017.Bilevich.03.04\NET.W.2017.Bilevich.03.04\bin\Debug\NET.W.2017.Bilevich.03.04.dll
+D:\SourceTreeClone\NET.W.2017.Bilevich.03.04\NET.W.2017.Bilevich.03.04\bin\Debug\NET.W.2017.Bilevich.03.04.pdb
+D:\SourceTreeClone\NET.W.2017.Bilevich.03.04\NET.W.2017.Bilevich.03.04\obj\Debug\GreatestCommonDivisor.csprojResolveAssemblyReference.cache
+D:\SourceTreeClone\NET.W.2017.Bilevich.03.04\NET.W.2017.Bilevich.03.04\obj\Debug\GreatestCommonDivisor.csproj.CoreCompileInputs.cache
+D:\SourceTreeClone\NET.W.2017.Bilevich.03.04\NET.W.2017.Bilevich.03.04\obj\Debug\NET.W.2017.Bilevich.03.04.dll
+D:\SourceTreeClone\NET.W.2017.Bilevich.03.04\NET.W.2017.Bilevich.03.04\obj\Debug\NET.W.2017.Bilevich.03.04.pdb

@@ -1,0 +1,6 @@
+C:\Users\Dmitry\source\repos\NET.W.2017.Bilevich.03.04\DoubleExtensions\bin\Debug\DoubleExtensions.dll
+C:\Users\Dmitry\source\repos\NET.W.2017.Bilevich.03.04\DoubleExtensions\bin\Debug\DoubleExtensions.pdb
+C:\Users\Dmitry\source\repos\NET.W.2017.Bilevich.03.04\DoubleExtensions\obj\Debug\DoubleExtensions.csprojResolveAssemblyReference.cache
+C:\Users\Dmitry\source\repos\NET.W.2017.Bilevich.03.04\DoubleExtensions\obj\Debug\DoubleExtensions.csproj.CoreCompileInputs.cache
+C:\Users\Dmitry\source\repos\NET.W.2017.Bilevich.03.04\DoubleExtensions\obj\Debug\DoubleExtensions.dll
+C:\Users\Dmitry\source\repos\NET.W.2017.Bilevich.03.04\DoubleExtensions\obj\Debug\DoubleExtensions.pdb

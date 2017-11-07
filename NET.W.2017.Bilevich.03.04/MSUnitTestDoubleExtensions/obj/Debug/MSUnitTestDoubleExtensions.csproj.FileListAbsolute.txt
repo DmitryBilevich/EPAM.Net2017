@@ -1,0 +1,15 @@
+C:\Users\Dmitry\source\repos\NET.W.2017.Bilevich.03.04\MSUnitTestDoubleExtensions\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Dmitry\source\repos\NET.W.2017.Bilevich.03.04\MSUnitTestDoubleExtensions\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Dmitry\source\repos\NET.W.2017.Bilevich.03.04\MSUnitTestDoubleExtensions\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Dmitry\source\repos\NET.W.2017.Bilevich.03.04\MSUnitTestDoubleExtensions\bin\Debug\MSUnitTestDoubleExtensions.dll
+C:\Users\Dmitry\source\repos\NET.W.2017.Bilevich.03.04\MSUnitTestDoubleExtensions\bin\Debug\MSUnitTestDoubleExtensions.pdb
+C:\Users\Dmitry\source\repos\NET.W.2017.Bilevich.03.04\MSUnitTestDoubleExtensions\bin\Debug\DoubleExtensions.dll
+C:\Users\Dmitry\source\repos\NET.W.2017.Bilevich.03.04\MSUnitTestDoubleExtensions\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\Dmitry\source\repos\NET.W.2017.Bilevich.03.04\MSUnitTestDoubleExtensions\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\Dmitry\source\repos\NET.W.2017.Bilevich.03.04\MSUnitTestDoubleExtensions\bin\Debug\DoubleExtensions.pdb
+C:\Users\Dmitry\source\repos\NET.W.2017.Bilevich.03.04\MSUnitTestDoubleExtensions\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\Dmitry\source\repos\NET.W.2017.Bilevich.03.04\MSUnitTestDoubleExtensions\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\Dmitry\source\repos\NET.W.2017.Bilevich.03.04\MSUnitTestDoubleExtensions\obj\Debug\MSUnitTestDoubleExtensions.csprojResolveAssemblyReference.cache
+C:\Users\Dmitry\source\repos\NET.W.2017.Bilevich.03.04\MSUnitTestDoubleExtensions\obj\Debug\MSUnitTestDoubleExtensions.csproj.CoreCompileInputs.cache
+C:\Users\Dmitry\source\repos\NET.W.2017.Bilevich.03.04\MSUnitTestDoubleExtensions\obj\Debug\MSUnitTestDoubleExtensions.dll
+C:\Users\Dmitry\source\repos\NET.W.2017.Bilevich.03.04\MSUnitTestDoubleExtensions\obj\Debug\MSUnitTestDoubleExtensions.pdb
